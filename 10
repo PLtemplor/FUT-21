@@ -1,0 +1,24 @@
+
+> husky@4.3.8 install C:\Users\User\platzi-badges-nodejs\movies-api\node_modules\husky
+> node husky install
+
+husky > Setting up git hooks
+git rev-parse command failed. Got fatal: not a git repository (or any of the parent directories): .git
+husky > Failed to install
+
+> husky@4.3.8 postinstall C:\Users\User\platzi-badges-nodejs\movies-api\node_modules\husky
+> opencollective-postinstall || exit 0
+
+[96m[1mThank you for using husky![96m[1m
+[0m[96mIf you rely on this package, please consider supporting our open collective:[22m[39m
+> [94mhttps://opencollective.com/husky/donate[0m
+
++ lint-staged@10.5.4
++ husky@4.3.8
+added 82 packages from 49 contributors and audited 352 packages in 22.961s
+
+46 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
